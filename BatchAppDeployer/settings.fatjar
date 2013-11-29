@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Nov 28 14:49:27 CST 2013
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=AppDeployTool.jar
+manifest.mergeall=true
+manifest.mainclass=com.dc.main.SystemMain
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

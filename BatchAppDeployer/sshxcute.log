@@ -1,0 +1,1789 @@
+
+=============== [2013/11/28 14:32:43, com.dc.main.SystemMain.<clinit>:30] ====================
+
+[14:32:43] INFO:    ³ÌÐòÆô¶¯
+
+=============== [2013/11/28 14:32:43, com.dc.deploy.app.BaseDeploy.<clinit>:8] ====================
+
+[14:32:43] INFO:    ¡¾Ìì½ò[ip: 16.139.0.4¡¿¿ªÊ¼²¿Êð...
+[14:32:43] INFO:    ¡¾µ¤¶«[ip: 16.151.0.84¡¿¿ªÊ¼²¿Êð...
+[14:32:43] INFO:    ¡¾ËÕÖÝ[ip: 16.201.19.16¡¿¿ªÊ¼²¿Êð...
+
+=============== [2013/11/28 14:32:43, com.dc.ssh.SSHTool.<clinit>:13] ====================
+
+
+=============== [2013/11/28 14:32:43, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[14:32:43] INFO:    SSHExec initializing ...
+[14:32:43] INFO:    SSHExec initializing ...
+[14:32:43] INFO:    SSHExec initializing ...
+[14:32:43] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:43] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:43] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:43] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:43] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:43] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:43] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:43] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:43] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:43] INFO:    SSHExec initialized successfully
+[14:32:43] INFO:    SSHExec initialized successfully
+[14:32:43] INFO:    SSHExec trying to connect gjjweb@16.151.0.84
+[14:32:43] INFO:    SSHExec initialized successfully
+[14:32:43] INFO:    SSHExec trying to connect gjjweb@16.139.0.4
+[14:32:43] INFO:    SSHExec trying to connect gjjweb@16.201.19.16
+[14:32:43] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:43] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:43] ERROR:   ¡¾Ìì½ò[ip: 16.139.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:43] ERROR:   ¡¾ËÕÖÝ[ip: 16.201.19.16¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:43] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:43] INFO:    ¡¾Ìì½ò[ip: 16.139.0.4¡¿²¿ÊðÍê³É£¡
+[14:32:43] ERROR:   ¡¾µ¤¶«[ip: 16.151.0.84¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:43] INFO:    ¡¾ËÕÖÝ[ip: 16.201.19.16¡¿²¿ÊðÍê³É£¡
+[14:32:43] INFO:    ¡¾ÑïÖÝ[ip: 16.218.3.10¡¿¿ªÊ¼²¿Êð...
+[14:32:43] INFO:    ¡¾µ¤¶«[ip: 16.151.0.84¡¿²¿ÊðÍê³É£¡
+[14:32:43] INFO:    SSHExec initializing ...
+[14:32:43] INFO:    ¡¾ÎÞÎý[ip: 16.218.3.15¡¿¿ªÊ¼²¿Êð...
+[14:32:43] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:43] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:43] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:43] INFO:    ¡¾ÐìÖÝ[ip: 16.218.3.5¡¿¿ªÊ¼²¿Êð...
+[14:32:43] INFO:    SSHExec initializing ...
+[14:32:43] INFO:    SSHExec initializing ...
+[14:32:43] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:43] INFO:    SSHExec initialized successfully
+[14:32:43] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:43] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:43] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:43] INFO:    SSHExec trying to connect gjjweb@16.218.3.10
+[14:32:43] INFO:    SSHExec initialized successfully
+[14:32:43] INFO:    SSHExec trying to connect gjjweb@16.218.3.5
+[14:32:43] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:43] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:43] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:43] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:43] ERROR:   ¡¾ÐìÖÝ[ip: 16.218.3.5¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:43] ERROR:   ¡¾ÑïÖÝ[ip: 16.218.3.10¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:43] INFO:    SSHExec initialized successfully
+[14:32:43] INFO:    SSHExec trying to connect gjjweb@16.218.3.15
+[14:32:43] INFO:    ¡¾ÐìÖÝ[ip: 16.218.3.5¡¿²¿ÊðÍê³É£¡
+[14:32:43] INFO:    ¡¾ÑïÖÝ[ip: 16.218.3.10¡¿²¿ÊðÍê³É£¡
+[14:32:43] INFO:    ¡¾³£ÖÝ[ip: 16.218.3.14¡¿¿ªÊ¼²¿Êð...
+[14:32:43] INFO:    ¡¾¼ÎÐË[ip: 16.219.3.7¡¿¿ªÊ¼²¿Êð...
+[14:32:43] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:43] ERROR:   ¡¾ÎÞÎý[ip: 16.218.3.15¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:43] INFO:    SSHExec initializing ...
+[14:32:43] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:43] INFO:    ¡¾ÎÞÎý[ip: 16.218.3.15¡¿²¿ÊðÍê³É£¡
+[14:32:43] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:43] INFO:    SSHExec initializing ...
+[14:32:43] INFO:    ¡¾º¼ÖÝ[ip: 16.219.3.4¡¿¿ªÊ¼²¿Êð...
+[14:32:43] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:43] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:43] INFO:    SSHExec initializing ...
+[14:32:43] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:43] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:43] INFO:    SSHExec initialized successfully
+[14:32:43] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:43] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:43] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:43] INFO:    SSHExec trying to connect gjjweb@16.218.3.14
+[14:32:43] INFO:    SSHExec initialized successfully
+[14:32:43] INFO:    SSHExec trying to connect gjjweb@16.219.3.4
+[14:32:43] INFO:    SSHExec initialized successfully
+[14:32:43] INFO:    SSHExec trying to connect gjjweb@16.219.3.7
+[14:32:43] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:43] ERROR:   ¡¾³£ÖÝ[ip: 16.218.3.14¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:43] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:43] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:43] ERROR:   ¡¾º¼ÖÝ[ip: 16.219.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:43] ERROR:   ¡¾¼ÎÐË[ip: 16.219.3.7¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:43] INFO:    ¡¾³£ÖÝ[ip: 16.218.3.14¡¿²¿ÊðÍê³É£¡
+[14:32:43] INFO:    ¡¾º¼ÖÝ[ip: 16.219.3.4¡¿²¿ÊðÍê³É£¡
+[14:32:43] INFO:    ¡¾¼ÎÐË[ip: 16.219.3.7¡¿²¿ÊðÍê³É£¡
+[14:32:43] INFO:    ¡¾¼ÃÄÏ[ip: 16.159.0.4¡¿¿ªÊ¼²¿Êð...
+[14:32:43] INFO:    SSHExec initializing ...
+[14:32:43] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:43] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:43] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:43] INFO:    SSHExec initialized successfully
+[14:32:43] INFO:    SSHExec trying to connect gjjweb@16.159.0.4
+[14:32:43] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:43] ERROR:   ¡¾¼ÃÄÏ[ip: 16.159.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:43] INFO:    ¡¾Çàµº[ip: 16.159.15.4¡¿¿ªÊ¼²¿Êð...
+[14:32:43] INFO:    SSHExec initializing ...
+[14:32:43] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:43] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:43] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:43] INFO:    SSHExec initialized successfully
+[14:32:43] INFO:    SSHExec trying to connect gjjweb@16.159.15.4
+[14:32:43] INFO:    ¡¾ÑÌÌ¨[ip: 16.159.0.84¡¿¿ªÊ¼²¿Êð...
+[14:32:43] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:43] ERROR:   ¡¾Çàµº[ip: 16.159.15.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:43] INFO:    SSHExec initializing ...
+[14:32:43] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:43] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:43] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:43] INFO:    SSHExec initialized successfully
+[14:32:43] INFO:    SSHExec trying to connect gjjweb@16.159.0.84
+[14:32:43] INFO:    ¡¾¼ÃÄÏ[ip: 16.159.0.4¡¿²¿ÊðÍê³É£¡
+[14:32:43] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:43] INFO:    ¡¾¼ÃÄþ[ip: 16.159.0.116¡¿¿ªÊ¼²¿Êð...
+[14:32:43] ERROR:   ¡¾ÑÌÌ¨[ip: 16.159.0.84¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:43] INFO:    SSHExec initializing ...
+[14:32:43] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:43] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    ¡¾Çàµº[ip: 16.159.15.4¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.159.0.116
+[14:32:44] INFO:    ¡¾ÑÌÌ¨[ip: 16.159.0.84¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    ¡¾Î«·»[ip: 16.159.0.100¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    ¡¾Íþº£[ip: 16.159.0.148¡¿¿ªÊ¼²¿Êð...
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] ERROR:   ¡¾¼ÃÄþ[ip: 16.159.0.116¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    ¡¾¼ÃÄþ[ip: 16.159.0.116¡¿²¿ÊðÍê³É£¡
+159.0.148
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    ¡¾ÁÄ³Ç[ip: 16.159.0.212¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.159.0.100
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] ERROR:   ¡¾Íþº£[ip: 16.159.0.148¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] ERROR:   ¡¾Î«·»[ip: 16.159.0.100¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾Íþº£[ip: 16.159.0.148¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    ¡¾×Í²©[ip: 16.159.0.36¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    ¡¾Î«·»[ip: 16.159.0.100¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.159.0.212
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.159.0.36
+[14:32:44] INFO:    ¡¾±õÖÝ[ip: 16.159.0.228¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] ERROR:   ¡¾×Í²©[ip: 16.159.0.36¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] ERROR:   ¡¾ÁÄ³Ç[ip: 16.159.0.212¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾×Í²©[ip: 16.159.0.36¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    ¡¾¹ãÖÝ[ip: 16.201.13.13¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    ¡¾ÁÄ³Ç[ip: 16.159.0.212¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    ¡¾ÉîÛÚ[ip: 16.163.0.20¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.159.0.228
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.201.13.13
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] ERROR:   ¡¾¹ãÖÝ[ip: 16.201.13.13¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.163.0.20
+[14:32:44] ERROR:   ¡¾±õÖÝ[ip: 16.159.0.228¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾¹ãÖÝ[ip: 16.201.13.13¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    ¡¾±õÖÝ[ip: 16.159.0.228¡¿²¿ÊðÍê³É£¡
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] ERROR:   ¡¾ÉîÛÚ[ip: 16.163.0.20¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾ÖÐÉ½[ip: 16.227.3.13¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    ¡¾Ê¯¼Ò×¯[ip: 16.148.0.4¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    ¡¾ÉîÛÚ[ip: 16.163.0.20¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    ¡¾ºªµ¦[ip: 16.148.0.52¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.148.0.4
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.148.0.52
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] ERROR:   ¡¾Ê¯¼Ò×¯[ip: 16.148.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾Ê¯¼Ò×¯[ip: 16.148.0.4¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    ¡¾±£¶¨[ip: 16.148.0.84¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] ERROR:   ¡¾ºªµ¦[ip: 16.148.0.52¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    ¡¾ºªµ¦[ip: 16.148.0.52¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    ¡¾²×ÖÝ[ip: 16.148.0.132¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.227.3.13
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.148.0.84
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] ERROR:   ¡¾ÖÐÉ½[ip: 16.227.3.13¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾ÖÐÉ½[ip: 16.227.3.13¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] ERROR:   ¡¾±£¶¨[ip: 16.148.0.84¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾³¤´º[ip: 16.152.0.4¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    ¡¾±£¶¨[ip: 16.148.0.84¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    ¡¾ÑÓ±ß[ip: 16.152.0.132¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.148.0.132
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.152.0.132
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.152.0.4
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] ERROR:   ¡¾²×ÖÝ[ip: 16.148.0.132¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] ERROR:   ¡¾ÑÓ±ß[ip: 16.152.0.132¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] ERROR:   ¡¾³¤´º[ip: 16.152.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾ÑÓ±ß[ip: 16.152.0.132¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    ¡¾¼ªÁÖ[ip: 16.152.0.20¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.152.0.20
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] ERROR:   ¡¾¼ªÁÖ[ip: 16.152.0.20¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾³¤´º[ip: 16.152.0.4¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    ¡¾¹þ¶û±õ[ip: 16.153.0.4¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.153.0.4
+[14:32:44] INFO:    ¡¾²×ÖÝ[ip: 16.148.0.132¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    ¡¾Äµµ¤½­[ip: 16.153.0.52¡¿¿ªÊ¼²¿Êð...
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] ERROR:   ¡¾¹þ¶û±õ[ip: 16.153.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾¼ªÁÖ[ip: 16.152.0.20¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    ¡¾ºÏ·Ê[ip: 16.156.0.4¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    ¡¾¹þ¶û±õ[ip: 16.153.0.4¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    ¡¾°²Çì[ip: 16.156.0.116¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.153.0.52
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.156.0.4
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] ERROR:   ¡¾ºÏ·Ê[ip: 16.156.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    ¡¾ºÏ·Ê[ip: 16.156.0.4¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.156.0.116
+[14:32:44] INFO:    ¡¾ÄÏ²ý[ip: 16.222.3.4¡¿¿ªÊ¼²¿Êð...
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] ERROR:   ¡¾Äµµ¤½­[ip: 16.153.0.52¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.222.3.4
+[14:32:44] INFO:    ¡¾Äµµ¤½­[ip: 16.153.0.52¡¿²¿ÊðÍê³É£¡
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] ERROR:   ¡¾°²Çì[ip: 16.156.0.116¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] ERROR:   ¡¾ÄÏ²ý[ip: 16.222.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾¸ÓÖÝ[ip: 16.222.3.11¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    ¡¾°²Çì[ip: 16.156.0.116¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    ¡¾ÄÏ²ý[ip: 16.222.3.4¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    ¡¾ÐÂÓà[ip: 16.222.3.9¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    ¡¾ÂåÑô[ip: 16.160.0.36¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.222.3.9
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.160.0.36
+[14:32:44] ERROR:   ¡¾ÐÂÓà[ip: 16.222.3.9¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    ¡¾ÐÂÓà[ip: 16.222.3.9¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    ¡¾³¤É³[ip: 16.226.3.4¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.222.3.11
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] ERROR:   ¡¾ÂåÑô[ip: 16.160.0.36¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.226.3.4
+[14:32:44] ERROR:   ¡¾¸ÓÖÝ[ip: 16.222.3.11¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾ÂåÑô[ip: 16.160.0.36¡¿²¿ÊðÍê³É£¡
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] ERROR:   ¡¾³¤É³[ip: 16.226.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾¸ÓÖÝ[ip: 16.222.3.11¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    ¡¾³£µÂ[ip: 16.226.3.10¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    ¡¾³¤É³[ip: 16.226.3.4¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    ¡¾ÔÀÑô[ip: 16.226.3.9¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    ¡¾ÉÛÑô[ip: 16.226.3.8¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.226.3.8
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.226.3.9
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] ERROR:   ¡¾ÉÛÑô[ip: 16.226.3.8¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    ¡¾ÉÛÑô[ip: 16.226.3.8¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    ¡¾º£¿Ú[ip: 16.229.3.4¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.226.3.10
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] ERROR:   ¡¾ÔÀÑô[ip: 16.226.3.9¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    ¡¾ÔÀÑô[ip: 16.226.3.9¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    ¡¾³É¶¼[ip: 16.230.3.4¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.229.3.4
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] ERROR:   ¡¾³£µÂ[ip: 16.226.3.10¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.230.3.4
+[14:32:44] INFO:    ¡¾³£µÂ[ip: 16.226.3.10¡¿²¿ÊðÍê³É£¡
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] ERROR:   ¡¾º£¿Ú[ip: 16.229.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] ERROR:   ¡¾³É¶¼[ip: 16.230.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾º£¿Ú[ip: 16.229.3.4¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    ¡¾³É¶¼[ip: 16.230.3.4¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    ¡¾ãòÖÝ[ip: 16.230.3.8¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.230.3.8
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] ERROR:   ¡¾ãòÖÝ[ip: 16.230.3.8¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾ãòÖÝ[ip: 16.230.3.8¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    ¡¾ÃàÑô[ip: 16.230.3.9¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.230.3.9
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] ERROR:   ¡¾ÃàÑô[ip: 16.230.3.9¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾ÃàÑô[ip: 16.230.3.9¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    ¡¾À¼ÖÝ[ip: 16.171.0.4¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.171.0.4
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] ERROR:   ¡¾À¼ÖÝ[ip: 16.171.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾À¼ÖÝ[ip: 16.171.0.4¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    ¡¾»ÆÊ¯[ip: 16.225.3.5¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.225.3.5
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] ERROR:   ¡¾»ÆÊ¯[ip: 16.225.3.5¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾»ÆÊ¯[ip: 16.225.3.5¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    ¡¾Îäºº[ip: 16.225.3.4¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    ¡¾ÏåÑô[ip: 16.225.3.9¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    ¡¾ÅÊÖ¦»¨[ip: 16.230.1.6¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.225.3.9
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.225.3.4
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] ERROR:   ¡¾ÏåÑô[ip: 16.225.3.9¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    ¡¾ÏåÑô[ip: 16.225.3.9¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    ¡¾»Æ¸Ô[ip: 16.225.3.13¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.230.1.6
+[14:32:44] ERROR:   ¡¾Îäºº[ip: 16.225.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.225.3.13
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] ERROR:   ¡¾ÅÊÖ¦»¨[ip: 16.230.1.6¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾Îäºº[ip: 16.225.3.4¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    ¡¾ÅÊÖ¦»¨[ip: 16.230.1.6¡¿²¿ÊðÍê³É£¡
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] ERROR:   ¡¾»Æ¸Ô[ip: 16.225.3.13¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾ÖØÇì[ip: 16.205.3.4¡¿¿ªÊ¼²¿Êð...
+[14:32:44] INFO:    SSHExec initializing ...
+[14:32:44] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:32:44] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:32:44] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:32:44] INFO:    SSHExec initialized successfully
+[14:32:44] INFO:    SSHExec trying to connect gjjweb@16.205.3.4
+[14:32:44] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:32:44] ERROR:   ¡¾ÖØÇì[ip: 16.205.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾»Æ¸Ô[ip: 16.225.3.13¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    ¡¾ÖØÇì[ip: 16.205.3.4¡¿²¿ÊðÍê³É£¡
+[14:32:44] INFO:    =========================================ËùÓÐ²¿ÊðµÄ×´Ì¬Çé¿ö=========================================
+[14:32:44] INFO:    com.dc.deploy.app.AppDeployÖ´ÐÐÇé¿ö£º
+[14:32:44] INFO:    ¡¾Ìì½ò[ip: 16.139.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾µ¤¶«[ip: 16.151.0.84¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾ËÕÖÝ[ip: 16.201.19.16¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾ÑïÖÝ[ip: 16.218.3.10¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾ÎÞÎý[ip: 16.218.3.15¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾ÐìÖÝ[ip: 16.218.3.5¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾³£ÖÝ[ip: 16.218.3.14¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾¼ÎÐË[ip: 16.219.3.7¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾º¼ÖÝ[ip: 16.219.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾¼ÃÄÏ[ip: 16.159.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾Çàµº[ip: 16.159.15.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾ÑÌÌ¨[ip: 16.159.0.84¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾¼ÃÄþ[ip: 16.159.0.116¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾Î«·»[ip: 16.159.0.100¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾Íþº£[ip: 16.159.0.148¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾ÁÄ³Ç[ip: 16.159.0.212¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾×Í²©[ip: 16.159.0.36¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾±õÖÝ[ip: 16.159.0.228¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾¹ãÖÝ[ip: 16.201.13.13¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾ÉîÛÚ[ip: 16.163.0.20¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾ÖÐÉ½[ip: 16.227.3.13¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾Ê¯¼Ò×¯[ip: 16.148.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾ºªµ¦[ip: 16.148.0.52¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾±£¶¨[ip: 16.148.0.84¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾²×ÖÝ[ip: 16.148.0.132¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾³¤´º[ip: 16.152.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾ÑÓ±ß[ip: 16.152.0.132¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾¼ªÁÖ[ip: 16.152.0.20¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾¹þ¶û±õ[ip: 16.153.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾Äµµ¤½­[ip: 16.153.0.52¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾ºÏ·Ê[ip: 16.156.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾°²Çì[ip: 16.156.0.116¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾ÄÏ²ý[ip: 16.222.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾¸ÓÖÝ[ip: 16.222.3.11¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾ÐÂÓà[ip: 16.222.3.9¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾ÂåÑô[ip: 16.160.0.36¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾³¤É³[ip: 16.226.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾³£µÂ[ip: 16.226.3.10¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾ÔÀÑô[ip: 16.226.3.9¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾ÉÛÑô[ip: 16.226.3.8¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾º£¿Ú[ip: 16.229.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾³É¶¼[ip: 16.230.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾ãòÖÝ[ip: 16.230.3.8¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾ÅÊÖ¦»¨[ip: 16.230.1.6¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾ÃàÑô[ip: 16.230.3.9¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾À¼ÖÝ[ip: 16.171.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾»ÆÊ¯[ip: 16.225.3.5¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾Îäºº[ip: 16.225.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾ÏåÑô[ip: 16.225.3.9¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾»Æ¸Ô[ip: 16.225.3.13¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:32:44] INFO:    ¡¾ÖØÇì[ip: 16.205.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+
+=============== [2013/11/28 14:35:52, com.dc.main.SystemMain.<clinit>:30] ====================
+
+
+=============== [2013/11/28 14:36:11, com.dc.main.SystemMain.<clinit>:30] ====================
+
+[14:36:11] INFO:    ³ÌÐòÆô¶¯
+
+=============== [2013/11/28 14:36:12, com.dc.deploy.app.BaseDeploy.<clinit>:8] ====================
+
+[14:36:12] INFO:    ¡¾Ìì½ò[ip: 16.139.0.4¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    ¡¾µ¤¶«[ip: 16.151.0.84¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    ¡¾ËÕÖÝ[ip: 16.201.19.16¡¿¿ªÊ¼²¿Êð...
+
+=============== [2013/11/28 14:36:12, com.dc.ssh.SSHTool.<clinit>:13] ====================
+
+
+=============== [2013/11/28 14:36:12, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.151.0.84
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.139.0.4
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.201.19.16
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   ¡¾Ìì½ò[ip: 16.139.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] INFO:    ¡¾Ìì½ò[ip: 16.139.0.4¡¿²¿ÊðÍê³É£¡
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   ¡¾ËÕÖÝ[ip: 16.201.19.16¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] ERROR:   ¡¾µ¤¶«[ip: 16.151.0.84¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    ¡¾ÑïÖÝ[ip: 16.218.3.10¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    ¡¾ËÕÖÝ[ip: 16.201.19.16¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    ¡¾ÎÞÎý[ip: 16.218.3.15¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.218.3.10
+[14:36:12] INFO:    ¡¾µ¤¶«[ip: 16.151.0.84¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    ¡¾ÐìÖÝ[ip: 16.218.3.5¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   ¡¾ÑïÖÝ[ip: 16.218.3.10¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    ¡¾ÑïÖÝ[ip: 16.218.3.10¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.218.3.15
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    ¡¾³£ÖÝ[ip: 16.218.3.14¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] ERROR:   ¡¾ÎÞÎý[ip: 16.218.3.15¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.218.3.5
+[14:36:12] INFO:    ¡¾ÎÞÎý[ip: 16.218.3.15¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.218.3.14
+[14:36:12] INFO:    ¡¾¼ÎÐË[ip: 16.219.3.7¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   ¡¾ÐìÖÝ[ip: 16.218.3.5¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] ERROR:   ¡¾³£ÖÝ[ip: 16.218.3.14¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    ¡¾ÐìÖÝ[ip: 16.218.3.5¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    ¡¾³£ÖÝ[ip: 16.218.3.14¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    ¡¾º¼ÖÝ[ip: 16.219.3.4¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.219.3.7
+[14:36:12] INFO:    ¡¾¼ÃÄÏ[ip: 16.159.0.4¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] ERROR:   ¡¾¼ÎÐË[ip: 16.219.3.7¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.219.3.4
+[14:36:12] INFO:    ¡¾¼ÎÐË[ip: 16.219.3.7¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    ¡¾Çàµº[ip: 16.159.15.4¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.159.0.4
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.159.15.4
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   ¡¾º¼ÖÝ[ip: 16.219.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] ERROR:   ¡¾¼ÃÄÏ[ip: 16.159.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    ¡¾º¼ÖÝ[ip: 16.219.3.4¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    ¡¾ÑÌÌ¨[ip: 16.159.0.84¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.159.0.84
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   ¡¾Çàµº[ip: 16.159.15.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    ¡¾Çàµº[ip: 16.159.15.4¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    ¡¾¼ÃÄþ[ip: 16.159.0.116¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] ERROR:   ¡¾ÑÌÌ¨[ip: 16.159.0.84¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    ¡¾¼ÃÄÏ[ip: 16.159.0.4¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.159.0.116
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   ¡¾¼ÃÄþ[ip: 16.159.0.116¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    ¡¾Î«·»[ip: 16.159.0.100¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    ¡¾ÑÌÌ¨[ip: 16.159.0.84¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    ¡¾¼ÃÄþ[ip: 16.159.0.116¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.159.0.100
+[14:36:12] INFO:    ¡¾Íþº£[ip: 16.159.0.148¡¿¿ªÊ¼²¿Êð...
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   ¡¾Î«·»[ip: 16.159.0.100¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    ¡¾ÁÄ³Ç[ip: 16.159.0.212¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.159.0.148
+[14:36:12] INFO:    ¡¾Î«·»[ip: 16.159.0.100¡¿²¿ÊðÍê³É£¡
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   ¡¾Íþº£[ip: 16.159.0.148¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    ¡¾Íþº£[ip: 16.159.0.148¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    ¡¾×Í²©[ip: 16.159.0.36¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.159.0.212
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.159.0.36
+[14:36:12] INFO:    ¡¾±õÖÝ[ip: 16.159.0.228¡¿¿ªÊ¼²¿Êð...
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   ¡¾ÁÄ³Ç[ip: 16.159.0.212¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] ERROR:   ¡¾×Í²©[ip: 16.159.0.36¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    ¡¾×Í²©[ip: 16.159.0.36¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.159.0.228
+[14:36:12] INFO:    ¡¾¹ãÖÝ[ip: 16.201.13.13¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   ¡¾±õÖÝ[ip: 16.159.0.228¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.201.13.13
+[14:36:12] INFO:    ¡¾ÁÄ³Ç[ip: 16.159.0.212¡¿²¿ÊðÍê³É£¡
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   ¡¾¹ãÖÝ[ip: 16.201.13.13¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    ¡¾±õÖÝ[ip: 16.159.0.228¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    ¡¾ÉîÛÚ[ip: 16.163.0.20¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.163.0.20
+[14:36:12] INFO:    ¡¾¹ãÖÝ[ip: 16.201.13.13¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    ¡¾ÖÐÉ½[ip: 16.227.3.13¡¿¿ªÊ¼²¿Êð...
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] INFO:    ¡¾Ê¯¼Ò×¯[ip: 16.148.0.4¡¿¿ªÊ¼²¿Êð...
+[14:36:12] ERROR:   ¡¾ÉîÛÚ[ip: 16.163.0.20¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.148.0.4
+[14:36:12] INFO:    ¡¾ÉîÛÚ[ip: 16.163.0.20¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    ¡¾ºªµ¦[ip: 16.148.0.52¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.227.3.13
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.148.0.52
+[14:36:12] ERROR:   ¡¾Ê¯¼Ò×¯[ip: 16.148.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    ¡¾Ê¯¼Ò×¯[ip: 16.148.0.4¡¿²¿ÊðÍê³É£¡
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   ¡¾ÖÐÉ½[ip: 16.227.3.13¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    ¡¾±£¶¨[ip: 16.148.0.84¡¿¿ªÊ¼²¿Êð...
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] INFO:    ¡¾ÖÐÉ½[ip: 16.227.3.13¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    ¡¾²×ÖÝ[ip: 16.148.0.132¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.148.0.84
+[14:36:12] ERROR:   ¡¾ºªµ¦[ip: 16.148.0.52¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    ¡¾ºªµ¦[ip: 16.148.0.52¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] INFO:    ¡¾³¤´º[ip: 16.152.0.4¡¿¿ªÊ¼²¿Êð...
+[14:36:12] ERROR:   ¡¾±£¶¨[ip: 16.148.0.84¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.148.0.132
+[14:36:12] INFO:    ¡¾±£¶¨[ip: 16.148.0.84¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   ¡¾²×ÖÝ[ip: 16.148.0.132¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    ¡¾ÑÓ±ß[ip: 16.152.0.132¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    ¡¾²×ÖÝ[ip: 16.148.0.132¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.152.0.4
+[14:36:12] INFO:    ¡¾¼ªÁÖ[ip: 16.152.0.20¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.152.0.20
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   ¡¾³¤´º[ip: 16.152.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   ¡¾¼ªÁÖ[ip: 16.152.0.20¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    ¡¾³¤´º[ip: 16.152.0.4¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    ¡¾¹þ¶û±õ[ip: 16.153.0.4¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.153.0.4
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   ¡¾¹þ¶û±õ[ip: 16.153.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    ¡¾¹þ¶û±õ[ip: 16.153.0.4¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    ¡¾Äµµ¤½­[ip: 16.153.0.52¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.153.0.52
+[14:36:12] INFO:    ¡¾¼ªÁÖ[ip: 16.152.0.20¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    ¡¾ºÏ·Ê[ip: 16.156.0.4¡¿¿ªÊ¼²¿Êð...
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   ¡¾Äµµ¤½­[ip: 16.153.0.52¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    ¡¾Äµµ¤½­[ip: 16.153.0.52¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    ¡¾°²Çì[ip: 16.156.0.116¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.152.0.132
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] ERROR:   ¡¾ÑÓ±ß[ip: 16.152.0.132¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.156.0.116
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.156.0.4
+[14:36:12] INFO:    ¡¾ÑÓ±ß[ip: 16.152.0.132¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    ¡¾ÄÏ²ý[ip: 16.222.3.4¡¿¿ªÊ¼²¿Êð...
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   ¡¾°²Çì[ip: 16.156.0.116¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   ¡¾ºÏ·Ê[ip: 16.156.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    ¡¾°²Çì[ip: 16.156.0.116¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    ¡¾¸ÓÖÝ[ip: 16.222.3.11¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.222.3.4
+[14:36:12] INFO:    ¡¾ºÏ·Ê[ip: 16.156.0.4¡¿²¿ÊðÍê³É£¡
+] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    ¡¾ÐÂÓà[ip: 16.222.3.9¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.222.3.11
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] ERROR:   ¡¾ÄÏ²ý[ip: 16.222.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    ¡¾ÄÏ²ý[ip: 16.222.3.4¡¿²¿ÊðÍê³É£¡
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   ¡¾¸ÓÖÝ[ip: 16.222.3.11¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    ¡¾ÂåÑô[ip: 16.160.0.36¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.222.3.9
+[14:36:12] INFO:    ¡¾¸ÓÖÝ[ip: 16.222.3.11¡¿²¿ÊðÍê³É£¡
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   ¡¾ÐÂÓà[ip: 16.222.3.9¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    ¡¾ÐÂÓà[ip: 16.222.3.9¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    ¡¾³£µÂ[ip: 16.226.3.10¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.226.3.10
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.226.3.4
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   ¡¾³£µÂ[ip: 16.226.3.10¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.160.0.36
+[14:36:12] INFO:    ¡¾³£µÂ[ip: 16.226.3.10¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    ¡¾ÔÀÑô[ip: 16.226.3.9¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] ERROR:   ¡¾ÂåÑô[ip: 16.160.0.36¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.226.3.9
+[14:36:12] INFO:    ¡¾ÂåÑô[ip: 16.160.0.36¡¿²¿ÊðÍê³É£¡
+[14:36:12] ERROR:   ¡¾³¤É³[ip: 16.226.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    ¡¾ÉÛÑô[ip: 16.226.3.8¡¿¿ªÊ¼²¿Êð...
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   ¡¾ÔÀÑô[ip: 16.226.3.9¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    ¡¾³¤É³[ip: 16.226.3.4¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    ¡¾º£¿Ú[ip: 16.229.3.4¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.226.3.8
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] ERROR:   ¡¾ÉÛÑô[ip: 16.226.3.8¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    ¡¾³É¶¼[ip: 16.230.3.4¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.229.3.4
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    ¡¾ÉÛÑô[ip: 16.226.3.8¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    ¡¾ãòÖÝ[ip: 16.230.3.8¡¿¿ªÊ¼²¿Êð...
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.230.3.4
+[14:36:12] ERROR:   ¡¾º£¿Ú[ip: 16.229.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    ¡¾º£¿Ú[ip: 16.229.3.4¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    ¡¾ÅÊÖ¦»¨[ip: 16.230.1.6¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.230.3.8
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   ¡¾ãòÖÝ[ip: 16.230.3.8¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   ¡¾³É¶¼[ip: 16.230.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    ¡¾ãòÖÝ[ip: 16.230.3.8¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.230.1.6
+[14:36:12] INFO:    ¡¾ÃàÑô[ip: 16.230.3.9¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    ¡¾³É¶¼[ip: 16.230.3.4¡¿²¿ÊðÍê³É£¡
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] INFO:    ¡¾À¼ÖÝ[ip: 16.171.0.4¡¿¿ªÊ¼²¿Êð...
+[14:36:12] ERROR:   ¡¾ÅÊÖ¦»¨[ip: 16.230.1.6¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    ¡¾ÅÊÖ¦»¨[ip: 16.230.1.6¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    ¡¾»ÆÊ¯[ip: 16.225.3.5¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.225.3.5
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] INFO:    SSHExec initialized successfully
+ì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.230.3.9
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    ¡¾»ÆÊ¯[ip: 16.225.3.5¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    ¡¾Îäºº[ip: 16.225.3.4¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.171.0.4
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.225.3.4
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   ¡¾ÃàÑô[ip: 16.230.3.9¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   ¡¾À¼ÖÝ[ip: 16.171.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] ERROR:   ¡¾Îäºº[ip: 16.225.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    ¡¾Îäºº[ip: 16.225.3.4¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    ¡¾À¼ÖÝ[ip: 16.171.0.4¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    ¡¾ÏåÑô[ip: 16.225.3.9¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    ¡¾ÃàÑô[ip: 16.230.3.9¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    ¡¾»Æ¸Ô[ip: 16.225.3.13¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    ¡¾ÖØÇì[ip: 16.205.3.4¡¿¿ªÊ¼²¿Êð...
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initializing ...
+[14:36:12] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:36:12] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.225.3.9
+[14:36:12] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:36:12] INFO:    SSHExec initialized successfully
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.205.3.4
+[14:36:12] INFO:    SSHExec trying to connect gjjweb@16.225.3.13
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   ¡¾ÏåÑô[ip: 16.225.3.9¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] ERROR:   ¡¾ÖØÇì[ip: 16.205.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:36:12] ERROR:   ¡¾»Æ¸Ô[ip: 16.225.3.13¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:12] INFO:    ¡¾ÏåÑô[ip: 16.225.3.9¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    ¡¾»Æ¸Ô[ip: 16.225.3.13¡¿²¿ÊðÍê³É£¡
+[14:36:12] INFO:    ¡¾ÖØÇì[ip: 16.205.3.4¡¿²¿ÊðÍê³É£¡
+[14:36:13] INFO:    =========================================ËùÓÐ²¿ÊðµÄ×´Ì¬Çé¿ö=========================================
+[14:36:13] INFO:    com.dc.deploy.app.AppDeployÖ´ÐÐÇé¿ö£º
+[14:36:13] INFO:    ¡¾Ìì½ò[ip: 16.139.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾µ¤¶«[ip: 16.151.0.84¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾ËÕÖÝ[ip: 16.201.19.16¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾ÑïÖÝ[ip: 16.218.3.10¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾ÎÞÎý[ip: 16.218.3.15¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾ÐìÖÝ[ip: 16.218.3.5¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾³£ÖÝ[ip: 16.218.3.14¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾¼ÎÐË[ip: 16.219.3.7¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾º¼ÖÝ[ip: 16.219.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾¼ÃÄÏ[ip: 16.159.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾Çàµº[ip: 16.159.15.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾ÑÌÌ¨[ip: 16.159.0.84¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾¼ÃÄþ[ip: 16.159.0.116¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾Î«·»[ip: 16.159.0.100¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾Íþº£[ip: 16.159.0.148¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾ÁÄ³Ç[ip: 16.159.0.212¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾×Í²©[ip: 16.159.0.36¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾±õÖÝ[ip: 16.159.0.228¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾¹ãÖÝ[ip: 16.201.13.13¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾ÉîÛÚ[ip: 16.163.0.20¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾ÖÐÉ½[ip: 16.227.3.13¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾Ê¯¼Ò×¯[ip: 16.148.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾ºªµ¦[ip: 16.148.0.52¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾±£¶¨[ip: 16.148.0.84¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾²×ÖÝ[ip: 16.148.0.132¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾³¤´º[ip: 16.152.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾ÑÓ±ß[ip: 16.152.0.132¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾¼ªÁÖ[ip: 16.152.0.20¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾¹þ¶û±õ[ip: 16.153.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾Äµµ¤½­[ip: 16.153.0.52¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾ºÏ·Ê[ip: 16.156.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾°²Çì[ip: 16.156.0.116¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾ÄÏ²ý[ip: 16.222.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾¸ÓÖÝ[ip: 16.222.3.11¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾ÐÂÓà[ip: 16.222.3.9¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾ÂåÑô[ip: 16.160.0.36¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾³¤É³[ip: 16.226.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾³£µÂ[ip: 16.226.3.10¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾ÔÀÑô[ip: 16.226.3.9¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾ÉÛÑô[ip: 16.226.3.8¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾º£¿Ú[ip: 16.229.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾³É¶¼[ip: 16.230.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾ãòÖÝ[ip: 16.230.3.8¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾ÅÊÖ¦»¨[ip: 16.230.1.6¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾ÃàÑô[ip: 16.230.3.9¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾À¼ÖÝ[ip: 16.171.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾»ÆÊ¯[ip: 16.225.3.5¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾Îäºº[ip: 16.225.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾ÏåÑô[ip: 16.225.3.9¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾»Æ¸Ô[ip: 16.225.3.13¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:36:13] INFO:    ¡¾ÖØÇì[ip: 16.205.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+
+=============== [2013/11/28 14:49:40, com.dc.main.SystemMain.<clinit>:30] ====================
+
+[14:49:40] INFO:    ³ÌÐòÆô¶¯
+
+=============== [2013/11/28 14:49:40, com.dc.deploy.app.BaseDeploy.<clinit>:8] ====================
+
+[14:49:40] INFO:    ¡¾Ìì½ò[ip: 16.139.0.4¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    ¡¾µ¤¶«[ip: 16.151.0.84¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    ¡¾ËÕÖÝ[ip: 16.201.19.16¡¿¿ªÊ¼²¿Êð...
+
+=============== [2013/11/28 14:49:40, com.dc.ssh.SSHTool.<clinit>:13] ====================
+
+
+=============== [2013/11/28 14:49:40, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.151.0.84
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.201.19.16
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.139.0.4
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   ¡¾ËÕÖÝ[ip: 16.201.19.16¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] ERROR:   ¡¾Ìì½ò[ip: 16.139.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   ¡¾µ¤¶«[ip: 16.151.0.84¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    ¡¾ËÕÖÝ[ip: 16.201.19.16¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    ¡¾µ¤¶«[ip: 16.151.0.84¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    ¡¾Ìì½ò[ip: 16.139.0.4¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    ¡¾ÑïÖÝ[ip: 16.218.3.10¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    ¡¾ÎÞÎý[ip: 16.218.3.15¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    ¡¾ÐìÖÝ[ip: 16.218.3.5¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.218.3.10
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.218.3.15
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.218.3.5
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   ¡¾ÑïÖÝ[ip: 16.218.3.10¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] INFO:    ¡¾ÑïÖÝ[ip: 16.218.3.10¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    ¡¾³£ÖÝ[ip: 16.218.3.14¡¿¿ªÊ¼²¿Êð...
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] ERROR:   ¡¾ÐìÖÝ[ip: 16.218.3.5¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] ERROR:   ¡¾ÎÞÎý[ip: 16.218.3.15¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    ¡¾ÐìÖÝ[ip: 16.218.3.5¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    ¡¾ÎÞÎý[ip: 16.218.3.15¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    ¡¾¼ÎÐË[ip: 16.219.3.7¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.218.3.14
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    ¡¾º¼ÖÝ[ip: 16.219.3.4¡¿¿ªÊ¼²¿Êð...
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] ERROR:   ¡¾³£ÖÝ[ip: 16.218.3.14¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.219.3.7
+[14:49:40] INFO:    ¡¾³£ÖÝ[ip: 16.218.3.14¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   ¡¾¼ÎÐË[ip: 16.219.3.7¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.219.3.4
+[14:49:40] INFO:    ¡¾¼ÃÄÏ[ip: 16.159.0.4¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    ¡¾¼ÎÐË[ip: 16.219.3.7¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    ¡¾Çàµº[ip: 16.159.15.4¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.159.0.4
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.159.15.4
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   ¡¾º¼ÖÝ[ip: 16.219.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   ¡¾¼ÃÄÏ[ip: 16.159.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   ¡¾Çàµº[ip: 16.159.15.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    ¡¾º¼ÖÝ[ip: 16.219.3.4¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    ¡¾Çàµº[ip: 16.159.15.4¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    ¡¾ÑÌÌ¨[ip: 16.159.0.84¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    ¡¾¼ÃÄÏ[ip: 16.159.0.4¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    ¡¾¼ÃÄþ[ip: 16.159.0.116¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.159.0.84
+[14:49:40] INFO:    ¡¾Î«·»[ip: 16.159.0.100¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   ¡¾ÑÌÌ¨[ip: 16.159.0.84¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.159.0.100
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.159.0.116
+[14:49:40] INFO:    ¡¾ÑÌÌ¨[ip: 16.159.0.84¡¿²¿ÊðÍê³É£¡
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   ¡¾Î«·»[ip: 16.159.0.100¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] INFO:    ¡¾Íþº£[ip: 16.159.0.148¡¿¿ªÊ¼²¿Êð...
+[14:49:40] ERROR:   ¡¾¼ÃÄþ[ip: 16.159.0.116¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    ¡¾Î«·»[ip: 16.159.0.100¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.159.0.148
+[14:49:40] INFO:    ¡¾¼ÃÄþ[ip: 16.159.0.116¡¿²¿ÊðÍê³É£¡
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] INFO:    ¡¾ÁÄ³Ç[ip: 16.159.0.212¡¿¿ªÊ¼²¿Êð...
+[14:49:40] ERROR:   ¡¾Íþº£[ip: 16.159.0.148¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    ¡¾×Í²©[ip: 16.159.0.36¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    ¡¾Íþº£[ip: 16.159.0.148¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    ¡¾±õÖÝ[ip: 16.159.0.228¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.159.0.228
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.159.0.212
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.159.0.36
+[14:49:40] ERROR:   ¡¾±õÖÝ[ip: 16.159.0.228¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] INFO:    ¡¾±õÖÝ[ip: 16.159.0.228¡¿²¿ÊðÍê³É£¡
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   ¡¾×Í²©[ip: 16.159.0.36¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] ERROR:   ¡¾ÁÄ³Ç[ip: 16.159.0.212¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    ¡¾ÁÄ³Ç[ip: 16.159.0.212¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    ¡¾¹ãÖÝ[ip: 16.201.13.13¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    ¡¾×Í²©[ip: 16.159.0.36¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    ¡¾ÉîÛÚ[ip: 16.163.0.20¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    ¡¾ÖÐÉ½[ip: 16.227.3.13¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.201.13.13
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.227.3.13
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   ¡¾¹ãÖÝ[ip: 16.201.13.13¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.163.0.20
+[14:49:40] INFO:    ¡¾¹ãÖÝ[ip: 16.201.13.13¡¿²¿ÊðÍê³É£¡
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   ¡¾ÉîÛÚ[ip: 16.163.0.20¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    ¡¾Ê¯¼Ò×¯[ip: 16.148.0.4¡¿¿ªÊ¼²¿Êð...
+[14:49:40] ERROR:   ¡¾ÖÐÉ½[ip: 16.227.3.13¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    ¡¾ÉîÛÚ[ip: 16.163.0.20¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    ¡¾ºªµ¦[ip: 16.148.0.52¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.148.0.4
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   ¡¾Ê¯¼Ò×¯[ip: 16.148.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    ¡¾Ê¯¼Ò×¯[ip: 16.148.0.4¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    ¡¾±£¶¨[ip: 16.148.0.84¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    ¡¾ÖÐÉ½[ip: 16.227.3.13¡¿²¿ÊðÍê³É£¡
+with user credential gjjwebsys
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    SSHExec initialized successfully
+...
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.148.0.52
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.148.0.84
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   ¡¾ºªµ¦[ip: 16.148.0.52¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    ¡¾ºªµ¦[ip: 16.148.0.52¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    ¡¾³¤´º[ip: 16.152.0.4¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] ERROR:   ¡¾±£¶¨[ip: 16.148.0.84¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.152.0.4
+[14:49:40] INFO:    ¡¾±£¶¨[ip: 16.148.0.84¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    ¡¾ÑÓ±ß[ip: 16.152.0.132¡¿¿ªÊ¼²¿Êð...
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] ERROR:   ¡¾³¤´º[ip: 16.152.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.148.0.132
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    ¡¾³¤´º[ip: 16.152.0.4¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    ¡¾¼ªÁÖ[ip: 16.152.0.20¡¿¿ªÊ¼²¿Êð...
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   ¡¾²×ÖÝ[ip: 16.148.0.132¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    ¡¾²×ÖÝ[ip: 16.148.0.132¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    ¡¾¹þ¶û±õ[ip: 16.153.0.4¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.152.0.132
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] ERROR:   ¡¾ÑÓ±ß[ip: 16.152.0.132¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.152.0.20
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    ¡¾ÑÓ±ß[ip: 16.152.0.132¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.153.0.4
+[14:49:40] INFO:    ¡¾Äµµ¤½­[ip: 16.153.0.52¡¿¿ªÊ¼²¿Êð...
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   ¡¾¼ªÁÖ[ip: 16.152.0.20¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   ¡¾¹þ¶û±õ[ip: 16.153.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    ¡¾¼ªÁÖ[ip: 16.152.0.20¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    ¡¾ºÏ·Ê[ip: 16.156.0.4¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    ¡¾¹þ¶û±õ[ip: 16.153.0.4¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.156.0.4
+[14:49:40] INFO:    ¡¾°²Çì[ip: 16.156.0.116¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.153.0.52
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   ¡¾Äµµ¤½­[ip: 16.153.0.52¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    ¡¾Äµµ¤½­[ip: 16.153.0.52¡¿²¿ÊðÍê³É£¡
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   ¡¾ºÏ·Ê[ip: 16.156.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    ¡¾ºÏ·Ê[ip: 16.156.0.4¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    ¡¾¸ÓÖÝ[ip: 16.222.3.11¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.222.3.11
+[14:49:40] INFO:    ¡¾ÄÏ²ý[ip: 16.222.3.4¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.156.0.116
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.222.3.4
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   ¡¾¸ÓÖÝ[ip: 16.222.3.11¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    ¡¾¸ÓÖÝ[ip: 16.222.3.11¡¿²¿ÊðÍê³É£¡
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   ¡¾ÄÏ²ý[ip: 16.222.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    ¡¾ÐÂÓà[ip: 16.222.3.9¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.222.3.9
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] INFO:    ¡¾ÄÏ²ý[ip: 16.222.3.4¡¿²¿ÊðÍê³É£¡
+[14:49:40] ERROR:   ¡¾°²Çì[ip: 16.156.0.116¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] ERROR:   ¡¾ÐÂÓà[ip: 16.222.3.9¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    ¡¾ÂåÑô[ip: 16.160.0.36¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.160.0.36
+[14:49:40] INFO:    ¡¾ÐÂÓà[ip: 16.222.3.9¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    ¡¾³¤É³[ip: 16.226.3.4¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.226.3.4
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   ¡¾³¤É³[ip: 16.226.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    ¡¾°²Çì[ip: 16.156.0.116¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    ¡¾³¤É³[ip: 16.226.3.4¡¿²¿ÊðÍê³É£¡
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] INFO:    ¡¾³£µÂ[ip: 16.226.3.10¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    ¡¾ÔÀÑô[ip: 16.226.3.9¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] ERROR:   ¡¾ÂåÑô[ip: 16.160.0.36¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+R' to new value '22'
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.226.3.10
+[14:49:40] INFO:    ¡¾ÂåÑô[ip: 16.160.0.36¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.226.3.9
+[14:49:40] INFO:    ¡¾ÉÛÑô[ip: 16.226.3.8¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   ¡¾ÔÀÑô[ip: 16.226.3.9¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.226.3.8
+[14:49:40] ERROR:   ¡¾³£µÂ[ip: 16.226.3.10¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    ¡¾ÔÀÑô[ip: 16.226.3.9¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    ¡¾³£µÂ[ip: 16.226.3.10¡¿²¿ÊðÍê³É£¡
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   ¡¾ÉÛÑô[ip: 16.226.3.8¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    ¡¾º£¿Ú[ip: 16.229.3.4¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    ¡¾³É¶¼[ip: 16.230.3.4¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    ¡¾ÉÛÑô[ip: 16.226.3.8¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    ¡¾ãòÖÝ[ip: 16.230.3.8¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.230.3.4
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] ERROR:   ¡¾³É¶¼[ip: 16.230.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    ¡¾³É¶¼[ip: 16.230.3.4¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    ¡¾ÅÊÖ¦»¨[ip: 16.230.1.6¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.230.3.8
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] ERROR:   ¡¾ãòÖÝ[ip: 16.230.3.8¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.230.1.6
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.229.3.4
+[14:49:40] INFO:    ¡¾ãòÖÝ[ip: 16.230.3.8¡¿²¿ÊðÍê³É£¡
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   ¡¾ÅÊÖ¦»¨[ip: 16.230.1.6¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    ¡¾ÃàÑô[ip: 16.230.3.9¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    ¡¾ÅÊÖ¦»¨[ip: 16.230.1.6¡¿²¿ÊðÍê³É£¡
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] INFO:    ¡¾À¼ÖÝ[ip: 16.171.0.4¡¿¿ªÊ¼²¿Êð...
+[14:49:40] ERROR:   ¡¾º£¿Ú[ip: 16.229.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    ¡¾º£¿Ú[ip: 16.229.3.4¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    ¡¾»ÆÊ¯[ip: 16.225.3.5¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.171.0.4
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] ERROR:   ¡¾À¼ÖÝ[ip: 16.171.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    ¡¾À¼ÖÝ[ip: 16.171.0.4¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    ¡¾Îäºº[ip: 16.225.3.4¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.225.3.5
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] ERROR:   ¡¾»ÆÊ¯[ip: 16.225.3.5¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.230.3.9
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.225.3.4
+[14:49:40] INFO:    ¡¾»ÆÊ¯[ip: 16.225.3.5¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    ¡¾ÏåÑô[ip: 16.225.3.9¡¿¿ªÊ¼²¿Êð...
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   ¡¾Îäºº[ip: 16.225.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   ¡¾ÃàÑô[ip: 16.230.3.9¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    ¡¾Îäºº[ip: 16.225.3.4¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    ¡¾»Æ¸Ô[ip: 16.225.3.13¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    ¡¾ÃàÑô[ip: 16.230.3.9¡¿²¿ÊðÍê³É£¡
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    ¡¾ÖØÇì[ip: 16.205.3.4¡¿¿ªÊ¼²¿Êð...
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.225.3.13
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.225.3.9
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   ¡¾»Æ¸Ô[ip: 16.225.3.13¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    SSHExec initializing ...
+[14:49:40] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[14:49:40] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] INFO:    ¡¾»Æ¸Ô[ip: 16.225.3.13¡¿²¿ÊðÍê³É£¡
+[14:49:40] ERROR:   ¡¾ÏåÑô[ip: 16.225.3.9¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    Session initialized and associated with user credential gjjwebsys
+[14:49:40] INFO:    SSHExec initialized successfully
+[14:49:40] INFO:    SSHExec trying to connect gjjweb@16.205.3.4
+[14:49:40] INFO:    ¡¾ÏåÑô[ip: 16.225.3.9¡¿²¿ÊðÍê³É£¡
+[14:49:40] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.SocketException: Network is unreachable: connect
+[14:49:40] ERROR:   ¡¾ÖØÇì[ip: 16.205.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:40] INFO:    ¡¾ÖØÇì[ip: 16.205.3.4¡¿²¿ÊðÍê³É£¡
+[14:49:41] INFO:    =========================================ËùÓÐ²¿ÊðµÄ×´Ì¬Çé¿ö=========================================
+[14:49:41] INFO:    com.dc.deploy.app.AppDeployÖ´ÐÐÇé¿ö£º
+[14:49:41] INFO:    ¡¾Ìì½ò[ip: 16.139.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾µ¤¶«[ip: 16.151.0.84¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾ËÕÖÝ[ip: 16.201.19.16¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾ÑïÖÝ[ip: 16.218.3.10¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾ÎÞÎý[ip: 16.218.3.15¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾ÐìÖÝ[ip: 16.218.3.5¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾³£ÖÝ[ip: 16.218.3.14¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾¼ÎÐË[ip: 16.219.3.7¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾º¼ÖÝ[ip: 16.219.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾¼ÃÄÏ[ip: 16.159.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾Çàµº[ip: 16.159.15.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾ÑÌÌ¨[ip: 16.159.0.84¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾¼ÃÄþ[ip: 16.159.0.116¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾Î«·»[ip: 16.159.0.100¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾Íþº£[ip: 16.159.0.148¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾ÁÄ³Ç[ip: 16.159.0.212¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾×Í²©[ip: 16.159.0.36¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾±õÖÝ[ip: 16.159.0.228¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾¹ãÖÝ[ip: 16.201.13.13¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾ÉîÛÚ[ip: 16.163.0.20¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾ÖÐÉ½[ip: 16.227.3.13¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾Ê¯¼Ò×¯[ip: 16.148.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾ºªµ¦[ip: 16.148.0.52¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾±£¶¨[ip: 16.148.0.84¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾²×ÖÝ[ip: 16.148.0.132¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾³¤´º[ip: 16.152.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾ÑÓ±ß[ip: 16.152.0.132¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾¼ªÁÖ[ip: 16.152.0.20¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾¹þ¶û±õ[ip: 16.153.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾Äµµ¤½­[ip: 16.153.0.52¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾ºÏ·Ê[ip: 16.156.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾°²Çì[ip: 16.156.0.116¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾ÄÏ²ý[ip: 16.222.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾¸ÓÖÝ[ip: 16.222.3.11¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾ÐÂÓà[ip: 16.222.3.9¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾ÂåÑô[ip: 16.160.0.36¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾³¤É³[ip: 16.226.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾³£µÂ[ip: 16.226.3.10¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾ÔÀÑô[ip: 16.226.3.9¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾ÉÛÑô[ip: 16.226.3.8¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾º£¿Ú[ip: 16.229.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾³É¶¼[ip: 16.230.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾ãòÖÝ[ip: 16.230.3.8¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾ÅÊÖ¦»¨[ip: 16.230.1.6¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾ÃàÑô[ip: 16.230.3.9¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾À¼ÖÝ[ip: 16.171.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾»ÆÊ¯[ip: 16.225.3.5¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾Îäºº[ip: 16.225.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾ÏåÑô[ip: 16.225.3.9¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾»Æ¸Ô[ip: 16.225.3.13¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[14:49:41] INFO:    ¡¾ÖØÇì[ip: 16.205.3.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+
+=============== [2013/11/29 20:37:56, com.dc.main.SystemMain.<clinit>:30] ====================
+
+[20:37:57] INFO:    ³ÌÐòÆô¶¯
+
+=============== [2013/11/29 20:37:57, com.dc.deploy.app.BaseDeploy.<clinit>:8] ====================
+
+[20:37:57] INFO:    ¡¾Ìì½ò[ip: 16.139.0.4¡¿¿ªÊ¼²¿Êð...
+[20:37:57] INFO:    ¡¾µ¤¶«[ip: 16.151.0.84¡¿¿ªÊ¼²¿Êð...
+[20:37:57] INFO:    ¡¾ËÕÖÝ[ip: 16.201.19.16¡¿¿ªÊ¼²¿Êð...
+
+=============== [2013/11/29 20:37:57, com.dc.ssh.SSHTool.<clinit>:13] ====================
+
+
+=============== [2013/11/29 20:37:57, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[20:37:57] INFO:    SSHExec initializing ...
+[20:37:57] INFO:    SSHExec initializing ...
+[20:37:57] INFO:    SSHExec initializing ...
+[20:37:57] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[20:37:57] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[20:37:57] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[20:37:57] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[20:37:57] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[20:37:57] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[20:37:57] INFO:    Session initialized and associated with user credential gjjwebsys
+[20:37:57] INFO:    Session initialized and associated with user credential gjjwebsys
+[20:37:57] INFO:    Session initialized and associated with user credential gjjwebsys
+[20:37:57] INFO:    SSHExec initialized successfully
+[20:37:57] INFO:    SSHExec initialized successfully
+[20:37:57] INFO:    SSHExec trying to connect gjjweb@16.151.0.84
+[20:37:57] INFO:    SSHExec initialized successfully
+[20:37:57] INFO:    SSHExec trying to connect gjjweb@16.201.19.16
+[20:37:57] INFO:    SSHExec trying to connect gjjweb@16.139.0.4
+[20:38:18] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.ConnectException: Connection timed out: connect
+[20:38:18] ERROR:   ¡¾Ìì½ò[ip: 16.139.0.4¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[20:38:18] INFO:    ¡¾Ìì½ò[ip: 16.139.0.4¡¿²¿ÊðÍê³É£¡
+[20:38:18] INFO:    ¡¾ÑïÖÝ[ip: 16.218.3.10¡¿¿ªÊ¼²¿Êð...
+[20:38:18] INFO:    SSHExec initializing ...
+[20:38:18] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[20:38:18] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[20:38:18] INFO:    Session initialized and associated with user credential gjjwebsys
+[20:38:18] INFO:    SSHExec initialized successfully
+[20:38:18] INFO:    SSHExec trying to connect gjjweb@16.218.3.10
+[20:38:18] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.ConnectException: Connection timed out: connect
+[20:38:18] ERROR:   ¡¾µ¤¶«[ip: 16.151.0.84¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[20:38:18] INFO:    ¡¾µ¤¶«[ip: 16.151.0.84¡¿²¿ÊðÍê³É£¡
+[20:38:18] INFO:    ¡¾ÎÞÎý[ip: 16.218.3.15¡¿¿ªÊ¼²¿Êð...
+[20:38:18] INFO:    SSHExec initializing ...
+[20:38:18] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[20:38:18] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[20:38:18] INFO:    Session initialized and associated with user credential gjjwebsys
+[20:38:18] INFO:    SSHExec initialized successfully
+[20:38:18] INFO:    SSHExec trying to connect gjjweb@16.218.3.15
+[20:38:18] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.ConnectException: Connection timed out: connect
+[20:38:18] ERROR:   ¡¾ËÕÖÝ[ip: 16.201.19.16¡¿SSH³õÊ¼»¯Òì³££¬ÍË³ö²¿Êð£¡
+[20:38:18] INFO:    ¡¾ËÕÖÝ[ip: 16.201.19.16¡¿²¿ÊðÍê³É£¡
+[20:38:18] INFO:    ¡¾ÐìÖÝ[ip: 16.218.3.5¡¿¿ªÊ¼²¿Êð...
+[20:38:18] INFO:    SSHExec initializing ...
+[20:38:18] INFO:    Set system configuration parameter 'SSH_PORT_NUMBER' to new value '22'
+[20:38:18] INFO:    Set system configuration parameter 'INTEVAL_TIME_BETWEEN_TASKS' to new value '0'
+[20:38:18] INFO:    Session initialized and associated with user credential gjjwebsys
+[20:38:18] INFO:    SSHExec initialized successfully
+[20:38:18] INFO:    SSHExec trying to connect gjjweb@16.218.3.5
